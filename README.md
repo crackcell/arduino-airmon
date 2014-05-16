@@ -1,4 +1,4 @@
 arduino-airmon
-==============
+================
 
-arduino-based air monitor
+arduino-based air monitor.
